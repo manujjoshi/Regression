@@ -1,3 +1,3 @@
 # Regression
 
-This repository contains Regression types and their codes. 
+This repository contains Detailed explanation of Regression types and their codes. 
