@@ -1,3 +1,3 @@
 # Regression
 
-This repository contains Detailed explanation of Regression types and their codes. 
+This repository contains Detailed explanation of Regression, it's codes, notes, books and formule. 
