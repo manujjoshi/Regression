@@ -1,4 +1,4 @@
 # Regression
 
-This repository contains Detailed explanation of Regression, it's codes, notes, books and formule.<br>
-**Normal equation derivation is important**
+This repository contains a Detailed explanation of Regression, its codes, notes, books, and formulae.<br>
+**Normal equation derivation is important** ![](https://media.geeksforgeeks.org/wp-content/uploads/Untitled-drawing-1-10.png)
